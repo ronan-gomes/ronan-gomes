@@ -5,11 +5,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanztx&layout=compact&langs_count=7&theme=solarized-dark"/>
 </div>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Nan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a>Html</a>
   <img align="center" alt="Nan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a>CSS</a>
   <img align="center" alt="Nan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <a>TypeScript</a>
   <img align="center" alt="Nan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <a>Java</a>
   <img align="center" alt="Nan-Advpl" height="30" width="40" src="totvs_advpl.jpg">
+  <a>ADVPL</a>
   <img align="right" alt="Nan-pic" height="150" style="border-radius:50px;" src="deku-hype-hype.gif">
 </div>
   
