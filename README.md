@@ -10,7 +10,7 @@
   <img align="center" alt="Nan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nan-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Nan-Advpl" height="30" width="40" src="totvs_advpl.jpg">
-  <img align="right" alt="Nan-pic" height="150" style="border-radius:50px;" src="deku-hype-hpe.gif">
+  <img align="right" alt="Nan-pic" height="150" style="border-radius:50px;" src="deku-hype-hype.gif">
 </div>
   
   ##
